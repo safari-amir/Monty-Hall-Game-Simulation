@@ -1,4 +1,6 @@
 # Monty Hall Simulation
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/1200px-Monty_open_door.svg.png)
+
 
 This project simulates the famous **Monty Hall Problem**, using a web interface built with Streamlit. The Monty Hall problem is a probability puzzle that demonstrates how switching your choice can improve your chances of winning a car over a goat.
 
